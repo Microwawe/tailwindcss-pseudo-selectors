@@ -1,0 +1,26 @@
+{
+	"name": "tailwindcss-pseudo",
+	"version": "1.0.0",
+	"description": "Plugin for Tailwind CSS that adds all the different pseudo selectors to variants",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/croutonn/tailwindcss-pseudo-elements.git"
+	},
+	"scripts": {
+		"test": "mocha --timeout 10000"
+	},
+	"keywords": [
+		"tailwindcss",
+		"tailwind",
+		"pseudo"
+	],
+	"author": "@Microwawe",
+	"license": "MIT",
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^8.2.1",
+		"postcss": "^8.2.4",
+		"tailwindcss": "^2.0.2"
+	}
+}
