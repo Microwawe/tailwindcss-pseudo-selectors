@@ -2,7 +2,8 @@
 
 Plugin for Tailwind CSS that adds all the different pseudo selectors as variants
 
-![GitHub package.json version](https://img.shields.io/github/package-json/v/microwawe/tailwindcss-pseudo-selectors) [![GitHub license](https://img.shields.io/github/license/Microwawe/tailwindcss-pseudo-selectors)](https://github.com/Microwawe/tailwindcss-pseudo-selectors/blob/master/LICENSE) ![npm bundle size](https://img.shields.io/bundlephobia/min/tailwindcss-pseudo-selectors) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![GitHub issues](https://img.shields.io/github/issues/Microwawe/tailwindcss-pseudo-selectors)](https://github.com/Microwawe/tailwindcss-pseudo-selectors/issues) [![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMicrowawe%2Ftailwindcss-pseudo-selectors)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/microwawe/tailwindcss-pseudo-selectors) [![GitHub license](https://img.shields.io/github/license/Microwawe/tailwindcss-pseudo-selectors)](https://github.com/Microwawe/tailwindcss-pseudo-selectors/blob/master/LICENSE) ![npm bundle size](https://img.shields.io/bundlephobia/min/tailwindcss-pseudo-selectors) [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) [![GitHub issues](https://img.shields.io/github/issues/Microwawe/tailwindcss-pseudo-selectors)](https://github.com/Microwawe/tailwindcss-pseudo-selectors/issues) 
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMicrowawe%2Ftailwindcss-pseudo-selectors)
 
 ## Installation
 
