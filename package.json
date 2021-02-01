@@ -1,36 +1,38 @@
 {
-	"name": "tailwindcss-pseudo",
-	"version": "1.0.0",
-	"description": "Plugin for Tailwind CSS that adds all the different pseudo selectors as variants",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Microwawe/tailwind-pseudo.git"
-	},
-	"keywords": [
-		"tailwindcss",
-		"tailwind",
-		"pseudo"
-	],
-	"author": "Mirko Nowak",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/Microwawe/tailwind-pseudo/issues"
-	},
-	"homepage": "https://github.com/Microwawe/tailwind-pseudo#readme",
-	"scripts": {
-		"test": "mocha --timeout 5000"
-	},
-	"devDependencies": {
-		"chai": "^4.2.0",
-		"cz-conventional-changelog": "^3.3.0",
-		"mocha": "^8.2.1",
-		"postcss": "^8.2.4",
-		"tailwindcss": "^2.0.2"
-	},
-	"config": {
-		"commitizen": {
-			"path": "./node_modules/cz-conventional-changelog"
-		}
-	}
+  "name": "tailwindcss-pseudo",
+  "version": "0.0.0-development",
+  "description": "Plugin for Tailwind CSS that adds all the different pseudo selectors as variants",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Microwawe/tailwind-pseudo.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "pseudo"
+  ],
+  "author": "Mirko Nowak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Microwawe/tailwind-pseudo/issues"
+  },
+  "homepage": "https://github.com/Microwawe/tailwind-pseudo#readme",
+  "scripts": {
+    "test": "mocha --timeout 5000",
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "mocha": "^8.2.1",
+    "postcss": "^8.2.4",
+    "semantic-release": "^17.3.7",
+    "tailwindcss": "^2.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
