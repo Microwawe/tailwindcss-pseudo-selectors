@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microwawe/tailwind-pseudo.git"
+		"url": "https://github.com/Microwawe/tailwind-pseudo-selectors.git"
 	},
 	"keywords": [
 		"tailwindcss",
@@ -15,9 +15,9 @@
 	"author": "Mirko Nowak",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/Microwawe/tailwind-pseudo/issues"
+		"url": "https://github.com/Microwawe/tailwind-pseudo-selectors/issues"
 	},
-	"homepage": "https://github.com/Microwawe/tailwind-pseudo#readme",
+	"homepage": "https://github.com/Microwawe/tailwind-pseudo-selectors#readme",
 	"scripts": {
 		"test": "mocha --timeout 5000",
 		"release": "semantic-release"
