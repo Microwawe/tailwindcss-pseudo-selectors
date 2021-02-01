@@ -1,5 +1,5 @@
-const pseudoPlugin = require("..");
-const colors = require("tailwindcss/colors");
+const pseudoPlugin = require('..');
+const colors = require('tailwindcss/colors');
 
 module.exports = {
 	theme: {
@@ -9,10 +9,7 @@ module.exports = {
 		},
 	},
 	variants: {
-		ringColor: ["valid", "invalid"],
-		ringOffsetColor: ["valid", "invalid"],
-		ringOffsetWidth: ["valid", "invalid"],
-		ringWidth: ["valid", "invalid"],
+		textColor: ['valid', 'invalid', 'before', 'after'],
 	},
 	plugins: [pseudoPlugin],
 };
