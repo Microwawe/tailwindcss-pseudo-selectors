@@ -1,5 +1,5 @@
 {
-	"name": "tailwindcss-pseudo",
+	"name": "tailwindcss-pseudo-selectors",
 	"version": "0.0.0-development",
 	"description": "Plugin for Tailwind CSS that adds all the different pseudo selectors as variants",
 	"main": "index.js",
